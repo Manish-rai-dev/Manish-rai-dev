@@ -15,14 +15,14 @@
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/704/0*bTP6NMJrlnpOVGOu.gif">
 <br>
 <br>
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3>
 <br>
 <p align="left">
 <a href="https://www.codechef.com/users/qmaster0230" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="qmaster0230" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/raimanishkumar52" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="raimanishkumar52" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/mastermanny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mastermanny" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mastermanny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mastermanny" height="30" width="40" /></a>
-</p>
+</p> -->
 <br>
 <br>
 <br>
