@@ -35,5 +35,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manish-rai-dev&show_icons=true&locale=en" alt="manish-rai-dev" /></p>
 <br>
 <br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manish-rai-dev&" alt="manish-rai-dev" /></p>
+
 
